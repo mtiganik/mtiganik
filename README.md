@@ -2,17 +2,17 @@
 
 ## Hello, I'm Mihkel 👋
 
-Currently im working with **Advent of Code challenges**. Trying to solve them as much as I can. [Check them out](https://github.com/mtiganik/AdventOfCode2023/)!
+Im a software developer and most of my code I put here. Some of the projects that works best are listed here:
 
-Also I've been doing Todo-Apps in different platforms to learn programming.
+I created some Todo apps in different platforms, check them out
 
 Check out: 
-
-- Todo app: [front](https://github.com/mtiganik/todo-front) + [back](https://github.com/mtiganik/todo-back) using React + Java
 - Todo app using React Native + expo, link [here](https://github.com/mtiganik/TodoAppRN)
 - Todo app using Flutter, link [here](https://github.com/mtiganik/flutter_todo_app)
 - Todo app using Service Worker (React + TypeScript), link [here](https://github.com/mtiganik/pwa)
 
+- In December I do **Advent of Code challenges**. Last year solutions are here, [Check them out](https://github.com/mtiganik/AdventOfCode2023/)!
+- Also, a nice snippet of how to make Roulette board with WPF is [here](https://github.com/mtiganik/Roulette)
 <!--
 **mtiganik/mtiganik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
