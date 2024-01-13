@@ -7,7 +7,7 @@ Im a software developer and most of my code I put here. Some of the projects tha
 I created some Todo apps in different platforms, check them out
 
 Check out: 
-- Todo app using React Native + expo, link [here](https://github.com/mtiganik/TodoAppRN)
+- Todo app using React Native + expo, link [here](https://github.com/mtiganik/todo-app-rn-ts)
 - Todo app using Flutter, link [here](https://github.com/mtiganik/flutter_todo_app)
 - Todo app using Service Worker (React + TypeScript), link [here](https://github.com/mtiganik/pwa)
 * In December I do **Advent of Code challenges**. Last year solutions are here, [Check them out](https://github.com/mtiganik/AdventOfCode2023/)!
