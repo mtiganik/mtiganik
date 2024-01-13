@@ -10,7 +10,7 @@ Check out:
 - Todo app using React Native + expo, link [here](https://github.com/mtiganik/TodoAppRN)
 - Todo app using Flutter, link [here](https://github.com/mtiganik/flutter_todo_app)
 - Todo app using Service Worker (React + TypeScript), link [here](https://github.com/mtiganik/pwa)
-
+Some other cool projects:
 - In December I do **Advent of Code challenges**. Last year solutions are here, [Check them out](https://github.com/mtiganik/AdventOfCode2023/)!
 - Also, a nice snippet of how to make Roulette board with WPF is [here](https://github.com/mtiganik/Roulette)
 <!--
