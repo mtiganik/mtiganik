@@ -7,6 +7,7 @@ Im a software developer and most of my code I put here. Some of the projects tha
 I created some Todo apps in different platforms, check them out
 
 Check out: 
+- Atari Breakout game. Code [here](https://github.com/mtiganik/atariBreakout) and you can play it [here](https://mtiganik.com/)
 - Todo app using React Native + expo, link [here](https://github.com/mtiganik/todo-app-rn-ts)
 - Todo app using Flutter, link [here](https://github.com/mtiganik/flutter_todo_app)
 - Todo app using Service Worker (React + TypeScript), link [here](https://github.com/mtiganik/pwa)
