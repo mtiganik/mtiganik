@@ -2,7 +2,7 @@
 
 ## Hello, I'm Mihkel 👋
 
-Im a software developer and most of my code I put here. Some of the projects that works best are listed here:
+Im a software developer and most of my code I put here. Some of the projects that works best are listed here
 
 I created some Todo apps in different platforms, check them out:
 
