@@ -1,0 +1,26 @@
+name: Daily Auto Commits
+
+on:
+  schedule:
+    - cron: '0 11 * * *'  # 11:00 UTC = 1:00 PM Estonian time
+  workflow_dispatch:      # allows manual run
+
+jobs:
+  auto_commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run daily commit script
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python3 script.py
