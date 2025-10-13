@@ -24,6 +24,6 @@ jobs:
 
       - name: Run daily commit script
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "mtiganik"
+          git config user.email "mtiganik@gmail.com"
           python3 script.py
