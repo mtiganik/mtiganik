@@ -1,4 +1,4 @@
-### Hi there 
+### Hi there :
 
 ## Hello, I'm Mihkel 👋
 
